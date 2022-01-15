@@ -117,5 +117,13 @@ footer{
        padding-left: 30px;
     }
      
- 
+}
+
+@media only screen and (min-width:688px) and (max-width:992px ) {
+    .picture{
+      display: grid;
+      grid-template-columns: 2fr ;
+         
+      }
+      
 }
